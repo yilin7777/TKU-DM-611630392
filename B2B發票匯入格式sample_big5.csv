@@ -1,0 +1,5 @@
+order_id,buyer_ban,buyer_name,item_description,item_sequence_number,item_unit_price,item_quantity,item_amount
+1,7,1,2,1,1000,1,1000
+2,8,2,3,2,2000,2,4000
+3,9,3,4,1,500,1,500
+4,10,4,5,2,300,2,600
